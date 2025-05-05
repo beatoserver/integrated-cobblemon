@@ -1,0 +1,13 @@
+{
+	chapter_groups: [
+		{ id: "1D344E867FA1E0AF", title: "Getting Started" }
+		{ id: "6365C410C136388C", title: "COBBLEMON" }
+		{ id: "523BD734ACA98B4C", title: "Exploration" }
+		{ id: "42B5D3D4465AA5B8", title: "Journal" }
+		{ id: "084C5D8A23021A7B", title: "Automation" }
+		{ id: "0D1A2BE29BBA1AC4", title: "Aphoteosis" }
+		{ id: "046FDA85E51CA3CD", title: "Collection" }
+		{ id: "79E58030D94D590D", title: "Shopping" }
+		{ id: "4CEB1A39D55B2802", title: "Completionist" }
+	]
+}

@@ -1,0 +1,198 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "down",
+			"facing": "north"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "up",
+			"facing": "north"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "south",
+			"facing": "north"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "west",
+			"facing": "north"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "east",
+			"facing": "north"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "down",
+			"facing": "south"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "up",
+			"facing": "south"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "north",
+			"facing": "south"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "south",
+			"facing": "south"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "west",
+			"facing": "south"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "east",
+			"facing": "south"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "down",
+			"facing": "west"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "up",
+			"facing": "west"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "north",
+			"facing": "west"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "south",
+			"facing": "west"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "west",
+			"facing": "west"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "east",
+			"facing": "west"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "down",
+			"facing": "east"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "up",
+			"facing": "east"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "north",
+			"facing": "east"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "south",
+			"facing": "east"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "west",
+			"facing": "east"
+		},
+		"Name": "cobblemon:display_case"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"item_facing": "east",
+			"facing": "east"
+		},
+		"Name": "cobblemon:display_case"
+	}
+]

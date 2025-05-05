@@ -1,0 +1,5 @@
+{
+  "preventSearchIgnoredItems": true,
+  "ingredientDedupe": true,
+  "resourceLocationDedupe": true
+}

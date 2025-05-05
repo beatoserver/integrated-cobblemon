@@ -1,0 +1,36 @@
+{
+	autofocus_id: "17BCC59C029D7D25"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "end_biome_maps"
+	group: "79E58030D94D590D"
+	id: "65E252BB04B6FB51"
+	images: [{
+		height: 1.2d
+		image: "imcquests:textures/misc/start.png"
+		rotation: 0.0d
+		width: 2.1333333333333333d
+		x: 0.5d
+		y: -1.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		can_repeat: false
+		description: ["Trade &bEnder Shards&r for &bPathfinder Quills&r to locate different biomes!"]
+		hide_dependency_lines: true
+		hide_dependent_lines: true
+		icon: "minecraft:compass"
+		id: "17BCC59C029D7D25"
+		shape: "rsquare"
+		size: 1.5d
+		tasks: [{
+			id: "71DED97F3120FDF6"
+			type: "checkmark"
+		}]
+		title: "Finding Biomes"
+		x: 0.5d
+		y: 0.0d
+	}]
+	title: "&5End Biome Maps"
+}

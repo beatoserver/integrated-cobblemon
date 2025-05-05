@@ -1,0 +1,358 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_1",
+			"facing": "north"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_2",
+			"facing": "north"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_3",
+			"facing": "north"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_4",
+			"facing": "north"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_5",
+			"facing": "north"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_6",
+			"facing": "north"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_7",
+			"facing": "north"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_8",
+			"facing": "north"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_9",
+			"facing": "north"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "green_progress_9",
+			"facing": "north"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "off",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_1",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_2",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_3",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_4",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_5",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_6",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_7",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_8",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_9",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "green_progress_9",
+			"facing": "south"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "off",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_1",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_2",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_3",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_4",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_5",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_6",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_7",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_8",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_9",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "green_progress_9",
+			"facing": "west"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "off",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_1",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_2",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_3",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_4",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_5",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_6",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_7",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_8",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "blue_progress_9",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"screen": "green_progress_9",
+			"facing": "east"
+		},
+		"Name": "cobblemon:monitor"
+	}
+]

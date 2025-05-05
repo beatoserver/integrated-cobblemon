@@ -1,0 +1,977 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "true",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "true",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "true",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "true",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "true",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "true",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "true",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "true",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "true",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "false",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "false",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "false",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "false",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "false",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "false",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "false",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "false",
+			"age": "0"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "true",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "true",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "true",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "true",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "true",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "true",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "true",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "true",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "true",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "false",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "false",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "false",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "false",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "false",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "false",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "false",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "false",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "false",
+			"age": "1"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "true",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "true",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "true",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "true",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "true",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "true",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "true",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "true",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "true",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "false",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "false",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "false",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "false",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "false",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "false",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "false",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "false",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "false",
+			"age": "2"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "true",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "true",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "true",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "true",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "true",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "true",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "true",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "true",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "true",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "false",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "false",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "false",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "false",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "false",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "false",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "false",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "false",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "false",
+			"age": "3"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "true",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "true",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "true",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "true",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "true",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "true",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "true",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "true",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "true",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "false",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "false",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "false",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "false",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "false",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "false",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "false",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "false",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "false",
+			"age": "4"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "true",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "true",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "true",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "true",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "true",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "true",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "true",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "true",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "true",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "coarse",
+			"generated": "false",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "growth",
+			"generated": "false",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "humid",
+			"generated": "false",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "loamy",
+			"generated": "false",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "peat",
+			"generated": "false",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "rich",
+			"generated": "false",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "sandy",
+			"generated": "false",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "surprise",
+			"generated": "false",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mulch": "none",
+			"generated": "false",
+			"age": "5"
+		},
+		"Name": "cobblemon:hondew_berry"
+	}
+]

@@ -1,0 +1,86 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mines": "0"
+		},
+		"Name": "securitycraft:ims"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mines": "0"
+		},
+		"Name": "securitycraft:ims"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mines": "1"
+		},
+		"Name": "securitycraft:ims"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mines": "1"
+		},
+		"Name": "securitycraft:ims"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mines": "2"
+		},
+		"Name": "securitycraft:ims"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mines": "2"
+		},
+		"Name": "securitycraft:ims"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mines": "3"
+		},
+		"Name": "securitycraft:ims"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"mines": "3"
+		},
+		"Name": "securitycraft:ims"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"mines": "4"
+		},
+		"Name": "securitycraft:ims"
+	},
+	{
+		"Name": "securitycraft:ims"
+	}
+]

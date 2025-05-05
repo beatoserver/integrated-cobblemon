@@ -1,0 +1,2724 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "none",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "none",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "white",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "white",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_gray",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_gray",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "gray",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "gray",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "black",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "black",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "lime",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "lime",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "green",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "green",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "cyan",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "cyan",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_blue",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_blue",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "blue",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "blue",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "purple",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "purple",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "magenta",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "magenta",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "pink",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "pink",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "red",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "red",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "orange",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "orange",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "yellow",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "yellow",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "brown",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "brown",
+			"rotating": "0",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "none",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "white",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "white",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_gray",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_gray",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "gray",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "gray",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "black",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "black",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "lime",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "lime",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "green",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "green",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "cyan",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "cyan",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_blue",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_blue",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "blue",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "blue",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "purple",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "purple",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "magenta",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "magenta",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "pink",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "pink",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "red",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "red",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "orange",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "orange",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "yellow",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "yellow",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "brown",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "brown",
+			"rotating": "1",
+			"facing": "north"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "none",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "none",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "white",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "white",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_gray",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_gray",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "gray",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "gray",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "black",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "black",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "lime",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "lime",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "green",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "green",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "cyan",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "cyan",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_blue",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_blue",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "blue",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "blue",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "purple",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "purple",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "magenta",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "magenta",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "pink",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "pink",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "red",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "red",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "orange",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "orange",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "yellow",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "yellow",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "brown",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "brown",
+			"rotating": "0",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "none",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "none",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "white",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "white",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_gray",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_gray",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "gray",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "gray",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "black",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "black",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "lime",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "lime",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "green",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "green",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "cyan",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "cyan",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_blue",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_blue",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "blue",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "blue",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "purple",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "purple",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "magenta",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "magenta",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "pink",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "pink",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "red",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "red",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "orange",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "orange",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "yellow",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "yellow",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "brown",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "brown",
+			"rotating": "1",
+			"facing": "south"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "none",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "none",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "white",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "white",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_gray",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_gray",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "gray",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "gray",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "black",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "black",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "lime",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "lime",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "green",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "green",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "cyan",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "cyan",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_blue",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_blue",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "blue",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "blue",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "purple",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "purple",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "magenta",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "magenta",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "pink",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "pink",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "red",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "red",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "orange",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "orange",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "yellow",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "yellow",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "brown",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "brown",
+			"rotating": "0",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "none",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "none",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "white",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "white",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_gray",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_gray",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "gray",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "gray",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "black",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "black",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "lime",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "lime",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "green",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "green",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "cyan",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "cyan",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_blue",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_blue",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "blue",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "blue",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "purple",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "purple",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "magenta",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "magenta",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "pink",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "pink",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "red",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "red",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "orange",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "orange",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "yellow",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "yellow",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "brown",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "brown",
+			"rotating": "1",
+			"facing": "west"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "none",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "none",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "white",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "white",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_gray",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_gray",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "gray",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "gray",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "black",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "black",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "lime",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "lime",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "green",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "green",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "cyan",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "cyan",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_blue",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_blue",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "blue",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "blue",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "purple",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "purple",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "magenta",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "magenta",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "pink",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "pink",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "red",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "red",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "orange",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "orange",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "yellow",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "yellow",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "brown",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "brown",
+			"rotating": "0",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "none",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "none",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "white",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "white",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_gray",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_gray",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "gray",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "gray",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "black",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "black",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "lime",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "lime",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "green",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "green",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "cyan",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "cyan",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "light_blue",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "light_blue",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "blue",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "blue",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "purple",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "purple",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "magenta",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "magenta",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "pink",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "pink",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "red",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "red",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "orange",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "orange",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "yellow",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "yellow",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"upholstery": "brown",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"upholstery": "brown",
+			"rotating": "1",
+			"facing": "east"
+		},
+		"Name": "everycomp:rd/regions_unexplored/willow_pedestal"
+	}
+]

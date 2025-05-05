@@ -1,0 +1,3842 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "0"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "1"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "2"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "3"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"design": "4"
+		},
+		"Name": "redeco:paper_door"
+	}
+]

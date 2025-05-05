@@ -1,0 +1,324 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "top",
+			"on": "true",
+			"facing": "north"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "top",
+			"on": "true",
+			"facing": "north"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "bottom",
+			"on": "true",
+			"facing": "north"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "bottom",
+			"on": "true",
+			"facing": "north"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "top",
+			"on": "false",
+			"facing": "north"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "top",
+			"on": "false",
+			"facing": "north"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "bottom",
+			"on": "false",
+			"facing": "north"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "top",
+			"on": "true",
+			"facing": "south"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "top",
+			"on": "true",
+			"facing": "south"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "bottom",
+			"on": "true",
+			"facing": "south"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "bottom",
+			"on": "true",
+			"facing": "south"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "top",
+			"on": "false",
+			"facing": "south"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "top",
+			"on": "false",
+			"facing": "south"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "bottom",
+			"on": "false",
+			"facing": "south"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "bottom",
+			"on": "false",
+			"facing": "south"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "top",
+			"on": "true",
+			"facing": "west"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "top",
+			"on": "true",
+			"facing": "west"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "bottom",
+			"on": "true",
+			"facing": "west"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "bottom",
+			"on": "true",
+			"facing": "west"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "top",
+			"on": "false",
+			"facing": "west"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "top",
+			"on": "false",
+			"facing": "west"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "bottom",
+			"on": "false",
+			"facing": "west"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "bottom",
+			"on": "false",
+			"facing": "west"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "top",
+			"on": "true",
+			"facing": "east"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "top",
+			"on": "true",
+			"facing": "east"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "bottom",
+			"on": "true",
+			"facing": "east"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "bottom",
+			"on": "true",
+			"facing": "east"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "top",
+			"on": "false",
+			"facing": "east"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "top",
+			"on": "false",
+			"facing": "east"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "true",
+			"part": "bottom",
+			"on": "false",
+			"facing": "east"
+		},
+		"Name": "cobblemon:restoration_tank"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"triggered": "false",
+			"part": "bottom",
+			"on": "false",
+			"facing": "east"
+		},
+		"Name": "cobblemon:restoration_tank"
+	}
+]
