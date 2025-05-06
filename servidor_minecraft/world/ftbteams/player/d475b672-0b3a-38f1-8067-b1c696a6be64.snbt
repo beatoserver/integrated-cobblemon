@@ -1,0 +1,17 @@
+{
+	id: "d475b672-0b3a-38f1-8067-b1c696a6be64"
+	type: "player"
+	player_name: "BEAT04"
+	ranks: {
+		d475b672-0b3a-38f1-8067-b1c696a6be64: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "BEAT04"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5C59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
